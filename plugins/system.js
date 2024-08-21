@@ -16,13 +16,13 @@ let status = `
 ━━━⚙ *LAKA-MD BOT SYSTEM* ⚙━━━
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┠  📌 Uptime: ${runtime(process.uptime())} 
-┠  📂 Ram usage: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-┠  🔒 HostName: ${os.hostname()}
-┠  🦸 Owner: Supun Madhuranga
+┠  📌 *Uptime:* ${runtime(process.uptime())} 
+┠  📂 *Ram usage:* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+┠  🔒 *HostName: ${os.hostname()}
+┠  🦸 *Owner:* Supun Madhuranga
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴏꜰᴄ
+💗 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙻𝙰𝙺𝙰-𝙾𝙵𝙲 💗
 `
 return reply(`${status}`)
 }catch(e){
