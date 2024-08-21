@@ -138,7 +138,7 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 if(senderNumber.includes("94768593158")){
 if(isReact) return
 m.react("💗")
-
+}
 if(senderNumber.includes("94755250046")){
 if(isReact) return
 m.react("😼")
@@ -151,7 +151,6 @@ if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && !isGroup && config.MODE === "groups") return
 //============================================================================
         
-
 
 const events = require('./command')
 const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
