@@ -19,15 +19,15 @@ const url = data.url
 let desc = `
 🌟 *LAKA-MD SONG DOWNLOADER* 🌟
 
-*Title:* ${data.title}
+*🔗 Title:* ${data.title}
 
-*Description:* ${data.description}
+*🩸 Description:* ${data.description}
 
-*Time:* ${data.timestamp}
+*⌛ Time:* ${data.timestamp}
 
-*Ago:* ${data.ago}
+*🪔 Ago:* ${data.ago}
 
-*Views:* ${data.views}
+*👁‍🗨 Views:* ${data.views}
 
 
 💗 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙻𝙰𝙺𝙰-𝙾𝙵𝙲 💗
@@ -70,15 +70,15 @@ const url = data.url
 let desc = `
 🌟 *LAKA-MD VIDEO DOWNLOADER* 🌟
 
-*Title:* ${data.title}
+*🔗 Title:* ${data.title}
 
-*Description:* ${data.description}
+*🩸 Description:* ${data.description}
 
-*Time:* ${data.timestamp}
+*⌛ Time:* ${data.timestamp}
 
-*Ago:* ${data.ago}
+*🪔 Ago:* ${data.ago}
 
-*Views:* ${data.views}
+*👁‍🗨 Views:* ${data.views}
 
 
 💗 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙻𝙰𝙺𝙰-𝙾𝙵𝙲 💗
