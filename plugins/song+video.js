@@ -23,7 +23,7 @@ let desc = `
 ┣ *➤ 🔗 Title:* ${data.title}
 ┃
 ┃
-┣ *➤ 🩸 Description:* ${data.description}
+┣ *➤ 🩸 url:* ${data.url}
 ┃
 ┃
 ┣ *➤ 👁‍🗨 Views:* ${data.views}
