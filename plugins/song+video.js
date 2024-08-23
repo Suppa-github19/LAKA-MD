@@ -20,15 +20,15 @@ let desc = `
 🌟 *LAKA-MD SONG DOWNLOADER* 🌟
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┣>*➤ 🔗 Title:* ${data.title}
+┣ *➤ 🔗 Title:* ${data.title}
 ┃
-┣>*➤ 🩸 url:* ${data.url}
+┣ *➤ 🩸 url:* ${data.url}
 ┃
-┣>*➤ 👁‍🗨 Views:* ${data.views}
+┣ *➤ 👁‍🗨 Views:* ${data.views}
 ┃
-┣>*➤ ⌛ Time:* ${data.timestamp}
+┣ *➤ ⌛ Time:* ${data.timestamp}
 ┃
-┣>*➤ 🪔 Ago:* ${data.ago}
+┣ *➤ 🪔 Ago:* ${data.ago}
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
